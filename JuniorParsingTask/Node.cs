@@ -1,4 +1,4 @@
-﻿namespace JuniorParsingTask;
+﻿namespace JuniorParsingTask{
 
 public class Node
 {
@@ -20,4 +20,5 @@ public class Node
     {
         Children.AddRange(children); 
     }
+}
 }
